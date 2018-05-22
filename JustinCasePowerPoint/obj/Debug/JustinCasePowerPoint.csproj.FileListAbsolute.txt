@@ -8,3 +8,13 @@ C:\Users\Slamerz\Documents\Visual Studio 2017\Projects\JustinCasePowerPoint\Just
 C:\Users\Slamerz\Documents\Visual Studio 2017\Projects\JustinCasePowerPoint\JustinCasePowerPoint\obj\Debug\JustinCasePowerPoint.csproj.CoreCompileInputs.cache
 C:\Users\Slamerz\Documents\Visual Studio 2017\Projects\JustinCasePowerPoint\JustinCasePowerPoint\obj\Debug\JustinCasePowerPoint.exe
 C:\Users\Slamerz\Documents\Visual Studio 2017\Projects\JustinCasePowerPoint\JustinCasePowerPoint\obj\Debug\JustinCasePowerPoint.pdb
+C:\Users\dreamsketcher\Documents\JustinCasePPTtoPDF\JustinCasePowerPoint\bin\Debug\JustinCasePowerPoint.exe.config
+C:\Users\dreamsketcher\Documents\JustinCasePPTtoPDF\JustinCasePowerPoint\bin\Debug\JustinCasePowerPoint.exe
+C:\Users\dreamsketcher\Documents\JustinCasePPTtoPDF\JustinCasePowerPoint\bin\Debug\JustinCasePowerPoint.pdb
+C:\Users\dreamsketcher\Documents\JustinCasePPTtoPDF\JustinCasePowerPoint\obj\Debug\JustinCasePowerPoint.csprojAssemblyReference.cache
+C:\Users\dreamsketcher\Documents\JustinCasePPTtoPDF\JustinCasePowerPoint\obj\Debug\JustinCasePowerPoint.Form1.resources
+C:\Users\dreamsketcher\Documents\JustinCasePPTtoPDF\JustinCasePowerPoint\obj\Debug\JustinCasePowerPoint.Properties.Resources.resources
+C:\Users\dreamsketcher\Documents\JustinCasePPTtoPDF\JustinCasePowerPoint\obj\Debug\JustinCasePowerPoint.csproj.GenerateResource.cache
+C:\Users\dreamsketcher\Documents\JustinCasePPTtoPDF\JustinCasePowerPoint\obj\Debug\JustinCasePowerPoint.csproj.CoreCompileInputs.cache
+C:\Users\dreamsketcher\Documents\JustinCasePPTtoPDF\JustinCasePowerPoint\obj\Debug\JustinCasePowerPoint.exe
+C:\Users\dreamsketcher\Documents\JustinCasePPTtoPDF\JustinCasePowerPoint\obj\Debug\JustinCasePowerPoint.pdb

@@ -8,6 +8,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using JustinCasePowerPoint.Modules;
+
 
 namespace JustinCasePowerPoint
 {
@@ -24,6 +26,9 @@ namespace JustinCasePowerPoint
                 }
             }
         }
+        public int files;
+
+
         public string _browse;
         public Form1()
         {
@@ -32,18 +37,21 @@ namespace JustinCasePowerPoint
 
         private void button_browse_Click(object sender, EventArgs e)
         {
-            string test = "";
-            int size = -1;
             DialogResult result = folderBrowserDialog1.ShowDialog();
             if(result == DialogResult.OK)
             {
-                DirectoryInfo d = new DirectoryInfo(folderBrowserDialog1.ToString());
-
+                browse = folderBrowserDialog1.SelectedPath;
+                DirectoryInfo d = new DirectoryInfo(folderBrowserDialog1.SelectedPath);
+                files = 0;
                 try
                 {
-                    foreach(var file in d.GetFiles("*.pptx"))
+                    foreach (var file in d.GetFiles("*.pptx"))
                     {
-                        test = test + file.Name;
+                        files += 1;
+                    }
+                    foreach (var file in d.GetFiles("*ppt"))
+                    {
+                        files += 1;
                     }
                 }
                 catch
@@ -51,7 +59,13 @@ namespace JustinCasePowerPoint
 
                 }
             }
-            label_file_path.Text = test;
+        }
+
+        private void button_convert_Click(object sender, EventArgs e)
+        {
+            progressBar_Working.Visible = true;
+            
+
         }
     }
 }

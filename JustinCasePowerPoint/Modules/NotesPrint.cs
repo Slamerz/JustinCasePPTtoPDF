@@ -10,8 +10,13 @@ namespace JustinCasePowerPoint.Modules
 {
     class NotesPrint
     {
-        Application pptApp = new Application();
+        
 
+        private void convert (string folder)
+        {
+            Application pptApp = new Application();
+            var presentation = pptApp.Presentations;
+        }
 
 
 
