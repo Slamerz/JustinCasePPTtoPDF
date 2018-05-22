@@ -1,0 +1,10 @@
+C:\Users\Slamerz\Documents\Visual Studio 2017\Projects\JustinCasePowerPoint\JustinCasePowerPoint\bin\Debug\JustinCasePowerPoint.exe.config
+C:\Users\Slamerz\Documents\Visual Studio 2017\Projects\JustinCasePowerPoint\JustinCasePowerPoint\bin\Debug\JustinCasePowerPoint.exe
+C:\Users\Slamerz\Documents\Visual Studio 2017\Projects\JustinCasePowerPoint\JustinCasePowerPoint\bin\Debug\JustinCasePowerPoint.pdb
+C:\Users\Slamerz\Documents\Visual Studio 2017\Projects\JustinCasePowerPoint\JustinCasePowerPoint\obj\Debug\JustinCasePowerPoint.csprojAssemblyReference.cache
+C:\Users\Slamerz\Documents\Visual Studio 2017\Projects\JustinCasePowerPoint\JustinCasePowerPoint\obj\Debug\JustinCasePowerPoint.Form1.resources
+C:\Users\Slamerz\Documents\Visual Studio 2017\Projects\JustinCasePowerPoint\JustinCasePowerPoint\obj\Debug\JustinCasePowerPoint.Properties.Resources.resources
+C:\Users\Slamerz\Documents\Visual Studio 2017\Projects\JustinCasePowerPoint\JustinCasePowerPoint\obj\Debug\JustinCasePowerPoint.csproj.GenerateResource.cache
+C:\Users\Slamerz\Documents\Visual Studio 2017\Projects\JustinCasePowerPoint\JustinCasePowerPoint\obj\Debug\JustinCasePowerPoint.csproj.CoreCompileInputs.cache
+C:\Users\Slamerz\Documents\Visual Studio 2017\Projects\JustinCasePowerPoint\JustinCasePowerPoint\obj\Debug\JustinCasePowerPoint.exe
+C:\Users\Slamerz\Documents\Visual Studio 2017\Projects\JustinCasePowerPoint\JustinCasePowerPoint\obj\Debug\JustinCasePowerPoint.pdb
